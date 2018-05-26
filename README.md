@@ -5,6 +5,7 @@ Installion
 ====
 * apt install w3m
 * apt install git
+* apt install wget
 * git clone https://github.com/Amriez/ipmux
 * cd ipmux
 * sh ipmux.sh
