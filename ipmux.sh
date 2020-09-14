@@ -21,7 +21,7 @@ country_calling_code:
 country_name:
 currency:
 in_eu:
-ip:
+ip: 185.68.93.141
 languages:
 latitude:
 longitude: 
